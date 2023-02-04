@@ -1,0 +1,14 @@
+# Ignore folders with history and logs
+History/
+__Previews/
+Project Logs for CHARGE_PUMP_V2/
+
+# Ignore files with logs
+*.log
+
+# Ignore compiled library
+*.IntLib
+
+# Ignore list and logs to Altium Designer
+*.htm
+*.html
