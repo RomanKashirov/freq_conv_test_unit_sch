@@ -58,6 +58,23 @@ GenerateClassCluster=0
 DocumentUniqueId=QTRMNQRP
 
 [Document2]
+DocumentPath=Sheet2.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ZVVGHVXL
+
+[Document3]
 DocumentPath=freq_conv_test_unit_pcb.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
