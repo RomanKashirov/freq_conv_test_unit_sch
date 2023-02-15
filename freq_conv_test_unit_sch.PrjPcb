@@ -91,23 +91,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MWARRYAQ
 
-[Document4]
-DocumentPath=..\..\..\MOTOR_DRIVER_UNIT\altium\library\altium-library-master\library\diode.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SJTWUBUS
-
 [GeneratedDocument1]
 DocumentPath=Project Outputs for freq_conv_test_unit_sch\Design Rule Check - freq_conv_test_unit_pcb.html
 DItemRevisionGUID=
