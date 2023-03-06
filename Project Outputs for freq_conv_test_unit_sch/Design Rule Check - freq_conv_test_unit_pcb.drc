@@ -1,24 +1,27 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Roman\YandexDisk\frequency_converter\freq_conv_test_unit\freq_conv_test_unit_sch\freq_conv_test_unit_pcb.PcbDoc
-Date     : 06.02.2023
-Time     : 16:56:16
+Date     : 06.03.2023
+Time     : 15:41:55
 
-Processing Rule : Clearance Constraint (Gap=5.906mil) (All),(All)
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=7.874mil) (All),(All)
+Processing Rule : Clearance Constraint (Gap=0.125mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=3.937mil) (All),(All)
+Processing Rule : Clearance Constraint (Gap=0.1mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=4.921mil) (All),(All)
+Processing Rule : Clearance Constraint (Gap=0.15mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=11.811mil) (All),(All)
+Processing Rule : Clearance Constraint (Gap=0.3mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=13.78mil) (All),(All)
+Processing Rule : Clearance Constraint (Gap=0.35mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -30,181 +33,103 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=5.906mil) (Max=393.701mil) (Preferred=7.874mil) (All)
+Processing Rule : Width Constraint (Min=0.1mm) (Max=10mm) (Preferred=0.125mm) (All)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=3.937mil) (Max=393.701mil) (Preferred=4.921mil) (All)
+Processing Rule : Width Constraint (Min=0.15mm) (Max=10mm) (Preferred=0.2mm) (All)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=11.811mil) (Max=393.701mil) (Preferred=13.78mil) (All)
+Processing Rule : Width Constraint (Min=0.127mm) (Max=10mm) (Preferred=0.203mm) (All)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=13.78mil) (Max=393.701mil) (Preferred=15.748mil) (All)
-   Violation between Width Constraint: Track (2895mil,3678.15mil)(3260.827mil,3678.15mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (3139.764mil,1618.032mil)(3139.764mil,2795.276mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (3139.764mil,1618.032mil)(3245mil,1512.795mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (3139.764mil,2795.276mil)(3454.724mil,3110.236mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (3245mil,1512.795mil)(3544.291mil,1512.795mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (3260.827mil,3678.15mil)(3454.724mil,3484.252mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (3454.724mil,3110.236mil)(3454.724mil,3484.252mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (3454.724mil,3484.252mil)(3740.158mil,3769.685mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (3544.291mil,1512.795mil)(3570.866mil,1486.22mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (3582.677mil,1486.22mil)(3858.268mil,1486.22mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (3740.158mil,3769.685mil)(4635.827mil,3769.685mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (3858.268mil,1486.22mil)(3937.008mil,1564.961mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (3941.929mil,1560.039mil)(4197.835mil,1560.039mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (4689.882mil,3823.74mil)(4807.992mil,3823.74mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (4807.992mil,3823.74mil)(5157.48mil,4173.228mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (5157.48mil,4173.228mil)(7464.614mil,4173.228mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (7261.811mil,3112.165mil)(7470.472mil,3320.827mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (7464.614mil,4173.228mil)(7470.472mil,4167.37mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (7470.472mil,3320.827mil)(7470.472mil,4167.37mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (2895mil,4268.701mil)(3353.347mil,4268.701mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (3353.347mil,4268.701mil)(3454.724mil,4370.079mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (3454.724mil,4370.079mil)(3641.732mil,4183.071mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (3641.732mil,4183.071mil)(4537.402mil,4183.071mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (4537.402mil,4183.071mil)(5576.732mil,4183.071mil) on Bottom Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (5576.732mil,4183.071mil)(7120.079mil,2639.724mil) on Bottom Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (3245mil,1375mil)(3575.787mil,1375mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (3582.677mil,1368.11mil)(3789.37mil,1368.11mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (3789.37mil,1368.11mil)(3946.85mil,1210.63mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (3951.772mil,1205.709mil)(4207.677mil,1205.709mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (4212.598mil,1200.787mil)(4405.512mil,1200.787mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (4405.512mil,1200.787mil)(4651.575mil,1446.85mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (4714.567mil,1643.701mil)(4990.158mil,1643.701mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (5278.465mil,1735.158mil)(5278.465mil,1782.362mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (5278.465mil,1782.362mil)(7120.079mil,3623.977mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (1704.449mil,2110mil)(1940mil,2345.551mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (1940mil,2345.551mil)(1940mil,3719.409mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (1940mil,3719.409mil)(2404.409mil,3719.409mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (2404.409mil,3719.409mil)(2560mil,3875mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (2560mil,3875mil)(2895mil,3875mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (1704.449mil,1125.748mil)(2013.268mil,816.929mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (2013.268mil,816.929mil)(3946.85mil,816.929mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (3779.528mil,1610.867mil)(3937.008mil,1768.347mil) on Bottom Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (3779.528mil,984.252mil)(3779.528mil,1610.867mil) on Bottom Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (3779.528mil,984.252mil)(3946.85mil,816.929mil) on Bottom Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (3937.008mil,1768.347mil)(3937.008mil,1958.661mil) on Bottom Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (1392.095mil,1984.204mil)(1392.095mil,1992.489mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (1392.095mil,1984.204mil)(1397.953mil,1978.347mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (1392.095mil,1992.489mil)(1525.591mil,2125.984mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (1397.953mil,1978.347mil)(2163.347mil,1978.347mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (1525.591mil,2125.984mil)(1525.591mil,4015.748mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (1525.591mil,4015.748mil)(1780.433mil,4270.591mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (1780.433mil,4270.591mil)(1940mil,4270.591mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (1940mil,4270.591mil)(2354.409mil,4270.591mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (2163.347mil,1978.347mil)(2295mil,2110mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (2354.409mil,4270.591mil)(2553.15mil,4071.85mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (2553.15mil,4071.85mil)(2895mil,4071.85mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Arc (4202.756mil,1555.118mil) on Bottom Layer Actual Width = 10mil
-   Violation between Width Constraint: Arc (4241.089mil,1593.452mil) on Bottom Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (1901.299mil,1125.748mil)(2062.137mil,964.911mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (4054.774mil,964.911mil)(4212.598mil,807.087mil) on Top Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (4202.756mil,1626.441mil)(4202.756mil,1948.819mil) on Bottom Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (4202.756mil,1626.441mil)(4224.355mil,1604.842mil) on Bottom Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (4212.598mil,807.087mil)(4419.291mil,1013.779mil) on Bottom Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (4241.09mil,1593.452mil)(4419.291mil,1415.251mil) on Bottom Layer Actual Width = 10mil
-   Violation between Width Constraint: Track (4419.291mil,1013.779mil)(4419.291mil,1415.251mil) on Bottom Layer Actual Width = 10mil
-Rule Violations :65
-
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=5.906mil) (Conductor Width=5.906mil) (Air Gap=5.906mil) (Entries=4) (All)
+Processing Rule : Width Constraint (Min=0.35mm) (Max=10mm) (Preferred=0.4mm) (All)
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=5.906mil) (Conductor Width=7.874mil) (Air Gap=7.874mil) (Entries=4) (All)
+Processing Rule : Width Constraint (Min=0.3mm) (Max=10mm) (Preferred=0.35mm) (All)
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=7.874mil) (Conductor Width=7.874mil) (Air Gap=7.874mil) (Entries=4) (All)
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.2mm) (Conductor Width=0.3mm) (Air Gap=0.3mm) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=7.874mil) (Conductor Width=7.874mil) (Air Gap=7.874mil) (Entries=4) (All)
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.2mm) (Conductor Width=0.35mm) (Air Gap=0.35mm) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=7.874mil) (Conductor Width=13.78mil) (Air Gap=13.78mil) (Entries=4) (All)
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.2mm) (Conductor Width=0.2mm) (Air Gap=0.2mm) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=7.874mil) (Conductor Width=11.811mil) (Air Gap=11.811mil) (Entries=4) (All)
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.15mm) (Conductor Width=0.15mm) (Air Gap=0.15mm) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Minimum Annular Ring (Minimum=3.937mil) (IsVia)
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.2mm) (Conductor Width=0.2mm) (Air Gap=0.2mm) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Minimum Annular Ring (Minimum=5.906mil) (IsPAD)
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.15mm) (Conductor Width=0.2mm) (Air Gap=0.2mm) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Minimum Annular Ring (Minimum=5.906mil) (IsVia)
+Processing Rule : Minimum Annular Ring (Minimum=0.2mm) (IsPAD)
 Rule Violations :0
 
-Processing Rule : Minimum Annular Ring (Minimum=7.874mil) (IsPAD)
-   Violation between Minimum Annular Ring: (3.936mil < 7.874mil) Pad D1-1(7131.89mil,2639.724mil) on Multi-Layer (Annular Ring=3.937mil) On (Top Layer)
-   Violation between Minimum Annular Ring: (3.936mil < 7.874mil) Pad D1-10(7250mil,3435mil) on Multi-Layer (Annular Ring=3.937mil) On (Top Layer)
-   Violation between Minimum Annular Ring: (3.936mil < 7.874mil) Pad D1-11(7131.89mil,3497.992mil) on Multi-Layer (Annular Ring=3.937mil) On (Top Layer)
-   Violation between Minimum Annular Ring: (3.936mil < 7.874mil) Pad D1-12(7250mil,3560.984mil) on Multi-Layer (Annular Ring=3.937mil) On (Top Layer)
-   Violation between Minimum Annular Ring: (3.936mil < 7.874mil) Pad D1-13(7131.89mil,3623.977mil) on Multi-Layer (Annular Ring=3.937mil) On (Top Layer)
-   Violation between Minimum Annular Ring: (3.936mil < 7.874mil) Pad D1-14(7250mil,3686.969mil) on Multi-Layer (Annular Ring=3.937mil) On (Top Layer)
-   Violation between Minimum Annular Ring: (3.936mil < 7.874mil) Pad D1-15(7131.89mil,3749.961mil) on Multi-Layer (Annular Ring=3.937mil) On (Top Layer)
-   Violation between Minimum Annular Ring: (3.936mil < 7.874mil) Pad D1-16(7250mil,3828.701mil) on Multi-Layer (Annular Ring=3.937mil) On (Top Layer)
-   Violation between Minimum Annular Ring: (3.936mil < 7.874mil) Pad D1-17(8257.874mil,3885.984mil) on Multi-Layer (Annular Ring=3.937mil) On (Top Layer)
-   Violation between Minimum Annular Ring: (3.936mil < 7.874mil) Pad D1-18(8257.874mil,3699.764mil) on Multi-Layer (Annular Ring=3.937mil) On (Top Layer)
-   Violation between Minimum Annular Ring: (3.936mil < 7.874mil) Pad D1-19(8257.874mil,3513.543mil) on Multi-Layer (Annular Ring=3.937mil) On (Top Layer)
-   Violation between Minimum Annular Ring: (3.936mil < 7.874mil) Pad D1-2(7250mil,2718.465mil) on Multi-Layer (Annular Ring=3.937mil) On (Top Layer)
-   Violation between Minimum Annular Ring: (3.936mil < 7.874mil) Pad D1-20(8257.874mil,3327.323mil) on Multi-Layer (Annular Ring=3.937mil) On (Top Layer)
-   Violation between Minimum Annular Ring: (3.936mil < 7.874mil) Pad D1-21(8257.874mil,3141.102mil) on Multi-Layer (Annular Ring=3.937mil) On (Top Layer)
-   Violation between Minimum Annular Ring: (3.936mil < 7.874mil) Pad D1-22(8257.874mil,2954.882mil) on Multi-Layer (Annular Ring=3.937mil) On (Top Layer)
-   Violation between Minimum Annular Ring: (3.936mil < 7.874mil) Pad D1-23(8257.874mil,2768.661mil) on Multi-Layer (Annular Ring=3.937mil) On (Top Layer)
-   Violation between Minimum Annular Ring: (3.936mil < 7.874mil) Pad D1-24(8257.874mil,2582.441mil) on Multi-Layer (Annular Ring=3.937mil) On (Top Layer)
-   Violation between Minimum Annular Ring: (3.936mil < 7.874mil) Pad D1-3(7131.89mil,2852.323mil) on Multi-Layer (Annular Ring=3.937mil) On (Top Layer)
-   Violation between Minimum Annular Ring: (3.936mil < 7.874mil) Pad D1-4(7250mil,2915.315mil) on Multi-Layer (Annular Ring=3.937mil) On (Top Layer)
-   Violation between Minimum Annular Ring: (3.936mil < 7.874mil) Pad D1-5(7131.89mil,3049.173mil) on Multi-Layer (Annular Ring=3.937mil) On (Top Layer)
-   Violation between Minimum Annular Ring: (3.936mil < 7.874mil) Pad D1-6(7250mil,3112.165mil) on Multi-Layer (Annular Ring=3.937mil) On (Top Layer)
-   Violation between Minimum Annular Ring: (3.936mil < 7.874mil) Pad D1-7(7131.89mil,3246.024mil) on Multi-Layer (Annular Ring=3.937mil) On (Top Layer)
-   Violation between Minimum Annular Ring: (3.936mil < 7.874mil) Pad D1-8(7250mil,3309.016mil) on Multi-Layer (Annular Ring=3.937mil) On (Top Layer)
-   Violation between Minimum Annular Ring: (3.936mil < 7.874mil) Pad D1-9(7131.89mil,3372.008mil) on Multi-Layer (Annular Ring=3.937mil) On (Top Layer)
-Rule Violations :24
+Processing Rule : Minimum Annular Ring (Minimum=0.15mm) (IsVia)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.15mm) (IsPAD)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.1mm) (IsVia)
+Rule Violations :0
 
 Processing Rule : Acute Angle Constraint (Minimum=35.000) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=11.811mil) (Max=232.284mil) (IsVia)
+Processing Rule : Hole Size Constraint (Min=0.6mm) (Max=10mm) (IsPad)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=7.874mil) (Max=232.284mil) (IsVia)
+Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=5.9mm) (IsVia)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=23.622mil) (Max=232.284mil) (IsPad)
-   Violation between Hole Size Constraint: (354.331mil > 232.284mil) Pad D1-(7832.677mil,2563.937mil) on Multi-Layer Actual Hole Size = 354.331mil
-   Violation between Hole Size Constraint: (354.331mil > 232.284mil) Pad D1-(7832.677mil,3904.488mil) on Multi-Layer Actual Hole Size = 354.331mil
-Rule Violations :2
-
-Processing Rule : Hole To Hole Clearance (Gap=9.842mil) (All),(All)
+Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=5.9mm) (IsVia)
 Rule Violations :0
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=5.906mil) (All),(All)
+Processing Rule : Hole To Hole Clearance (Gap=0.25mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=3.937mil) (All),(All)
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Silk To Solder Mask (Clearance=5.906mil) (Disabled)(IsPad),(All)
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.15mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Silk to Silk (Clearance=5.906mil) (Disabled)(All),(All)
+Processing Rule : Silk To Solder Mask (Clearance=0.15mm) (Disabled)(IsPad),(All)
 Rule Violations :0
 
-Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Processing Rule : Silk to Silk (Clearance=0.15mm) (Disabled)(All),(All)
 Rule Violations :0
 
-Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
 
-Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+Processing Rule : Board Clearance Constraint (Gap=0mm) (not InLayerClass('overlay'))
 Rule Violations :0
 
-Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
-   Violation between Height Constraint: SIP Component T1-Transformer, TP112-11 (2097.657mil,1618.366mil) on Top Layer Actual Height = 1633.858mil
-   Violation between Height Constraint: Small Component C1-Aluminium capacitor, 680?F, 400V, ±20%, ?, 30x10x60 mm, -25...+105°C (4537.402mil,4183.071mil) on Top Layer Actual Height = 1450mil
-Rule Violations :2
+Processing Rule : Board Clearance Constraint (Gap=0mm) (not InLayerClass('overlay'))
+Rule Violations :0
+
+Processing Rule : Room optoiso2 (Bounding Region = (18.8mm, 159.6mm, 28.225mm, 180.525mm) (InComponentClass('optoiso2'))
+Rule Violations :0
+
+Processing Rule : Room optoiso1 (Bounding Region = (9.225mm, 159.6mm, 18.625mm, 180.525mm) (InComponentClass('optoiso1'))
+Rule Violations :0
+
+Processing Rule : Room optoiso3 (Bounding Region = (12.29mm, 159.7mm, 21.69mm, 180.625mm) (InComponentClass('optoiso3'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=50mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=9mm) (Prefered=5mm) (WithinRoom('BlackPill')and OnTop)
+Rule Violations :0
 
 
-Violations Detected : 93
+Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:05
