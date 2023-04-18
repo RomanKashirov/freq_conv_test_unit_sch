@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\roman\YandexDisk\frequency_converter\freq_conv_test_unit\freq_conv_test_unit_sch\freq_conv_test_unit_pcb.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=freq_conv_test_unit_pcb-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=freq_conv_test_unit_pcb-nonplated.txt|DrillLayers=gtl,gbl

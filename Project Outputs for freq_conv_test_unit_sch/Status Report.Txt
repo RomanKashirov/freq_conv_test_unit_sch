@@ -1,0 +1,10 @@
+Output: Report Board Stack
+Type  : Report Board Stack
+From  : Project [freq_conv_test_unit_sch.PrjPcb]
+   Generated File[freq_conv_test_unit_pcb.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:50:50 On 26.03.2023
